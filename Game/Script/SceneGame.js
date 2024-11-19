@@ -3,7 +3,7 @@ function loopGame() {
 }
 
 function displayGame() {
-
+    drawSceneInit()
 }
 
 function mouseUpGame(x, y, button) {

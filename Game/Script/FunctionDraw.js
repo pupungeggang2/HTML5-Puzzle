@@ -9,3 +9,7 @@ function drawSceneInit() {
     context.fillRect(0, 0, 1280, 800)
     context.fillStyle = 'Black'
 }
+
+function drawUI() {
+    
+}
